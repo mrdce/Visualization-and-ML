@@ -1,1 +1,1 @@
-A bunch tasks using pandas, matplotlib, and sklearn.  
+A bunch of tasks using pandas, matplotlib, and sklearn.  
